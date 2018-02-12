@@ -1,0 +1,4 @@
+﻿  Sortoff.cpp
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(103): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(187): warning C4172: returning address of local variable or temporary: p
+  Sortoff.vcxproj -> C:\Users\BT_1N3_25\Desktop\sortoff-master\Sortoff\x64\Debug\Sortoff.exe
