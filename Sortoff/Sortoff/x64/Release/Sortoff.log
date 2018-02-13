@@ -1,9 +1,9 @@
 ﻿  Sortoff.cpp
-Sortoff.cpp(105): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+Sortoff.cpp(119): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
   Generating code
-c:\users\bendy\documents\visual studio 2015\projects\sortoff-master\sortoff\sortoff\sortoff.cpp(262): warning C4172: returning address of local variable or temporary: p
-  4 of 31 functions (12.9%) were compiled, the rest were copied from previous compilation.
+c:\users\bt_1n3_25\downloads\sortoff-master\sortoff\sortoff\sortoff.cpp(334): warning C4172: returning address of local variable or temporary: p
+  6 of 31 functions (19.4%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
+    0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  Sortoff.vcxproj -> C:\Users\Bendy\Documents\Visual Studio 2015\Projects\sortoff-master\Sortoff\x64\Release\Sortoff.exe
+  Sortoff.vcxproj -> C:\Users\BT_1N3_25\Downloads\sortoff-master\Sortoff\x64\Release\Sortoff.exe
