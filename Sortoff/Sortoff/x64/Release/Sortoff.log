@@ -1,0 +1,8 @@
+﻿  Sortoff.cpp
+Sortoff.cpp(105): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  Generating code
+  2 of 29 functions ( 6.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Sortoff.vcxproj -> C:\Users\Bendy\Documents\Visual Studio 2015\Projects\sortoff-master\Sortoff\x64\Release\Sortoff.exe
