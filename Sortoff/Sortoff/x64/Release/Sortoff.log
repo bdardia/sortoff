@@ -1,7 +1,8 @@
 ﻿  Sortoff.cpp
 Sortoff.cpp(105): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
   Generating code
-  2 of 29 functions ( 6.9%) were compiled, the rest were copied from previous compilation.
+c:\users\bendy\documents\visual studio 2015\projects\sortoff-master\sortoff\sortoff\sortoff.cpp(262): warning C4172: returning address of local variable or temporary: p
+  4 of 31 functions (12.9%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     1 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
