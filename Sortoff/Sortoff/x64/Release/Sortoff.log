@@ -38,23 +38,26 @@ Sortoff.cpp(225): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTAN
 Sortoff.cpp(238): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
 Sortoff.cpp(238): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
 Sortoff.cpp(238): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-Sortoff.cpp(251): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
-Sortoff.cpp(274): warning C4244: 'argument': conversion from 'WPARAM' to 'int', possible loss of data
-Sortoff.cpp(595): warning C4101: 'i': unreferenced local variable
-Sortoff.cpp(761): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(791): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
-Sortoff.cpp(794): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(833): warning C4018: '>': signed/unsigned mismatch
-Sortoff.cpp(976): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(980): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(1046): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(1050): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(1099): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(1192): warning C4553: '==': operator has no effect; did you intend '='?
-Sortoff.cpp(1237): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Sortoff.cpp(251): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(251): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(251): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+Sortoff.cpp(264): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+Sortoff.cpp(287): warning C4244: 'argument': conversion from 'WPARAM' to 'int', possible loss of data
+Sortoff.cpp(608): warning C4101: 'i': unreferenced local variable
+Sortoff.cpp(774): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(804): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+Sortoff.cpp(807): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(846): warning C4018: '>': signed/unsigned mismatch
+Sortoff.cpp(1097): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(1101): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(1167): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(1171): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(1220): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(1313): warning C4553: '==': operator has no effect; did you intend '='?
+Sortoff.cpp(1358): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Generating code
-c:\users\bendy\downloads\projects\sortoff-master\sortoff\sortoff\sortoff.cpp(858): warning C4172: returning address of local variable or temporary: p
-  4 of 159 functions ( 2.5%) were compiled, the rest were copied from previous compilation.
+c:\users\bendy\downloads\projects\sortoff-master\sortoff\sortoff\sortoff.cpp(979): warning C4172: returning address of local variable or temporary: p
+  3 of 161 functions ( 1.9%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     1 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
