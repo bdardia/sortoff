@@ -1,63 +1,69 @@
 ﻿  Sortoff.cpp
-Sortoff.cpp(82): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(82): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(82): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-Sortoff.cpp(95): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(95): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(95): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-Sortoff.cpp(108): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(108): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(108): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-Sortoff.cpp(121): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(121): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(121): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-Sortoff.cpp(134): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(134): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(134): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-Sortoff.cpp(147): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(147): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(147): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-Sortoff.cpp(160): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(160): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(160): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-Sortoff.cpp(173): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(173): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(173): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-Sortoff.cpp(186): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(186): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(186): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-Sortoff.cpp(199): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(199): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(199): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-Sortoff.cpp(212): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(212): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(212): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-Sortoff.cpp(225): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(225): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(225): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-Sortoff.cpp(238): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(238): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(238): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-Sortoff.cpp(251): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(251): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-Sortoff.cpp(251): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-Sortoff.cpp(264): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
-Sortoff.cpp(287): warning C4244: 'argument': conversion from 'WPARAM' to 'int', possible loss of data
-Sortoff.cpp(608): warning C4101: 'i': unreferenced local variable
-Sortoff.cpp(774): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(804): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
-Sortoff.cpp(807): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(846): warning C4018: '>': signed/unsigned mismatch
-Sortoff.cpp(1097): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(1101): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(1167): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(1171): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(1220): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(1313): warning C4553: '==': operator has no effect; did you intend '='?
-Sortoff.cpp(1358): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Sortoff.cpp(85): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(85): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(85): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+Sortoff.cpp(98): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(98): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(98): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+Sortoff.cpp(111): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(111): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(111): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+Sortoff.cpp(124): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(124): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(124): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+Sortoff.cpp(137): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(137): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(137): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+Sortoff.cpp(150): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(150): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(150): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+Sortoff.cpp(163): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(163): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(163): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+Sortoff.cpp(176): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(176): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(176): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+Sortoff.cpp(189): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(189): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(189): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+Sortoff.cpp(202): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(202): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(202): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+Sortoff.cpp(215): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(215): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(215): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+Sortoff.cpp(228): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(228): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(228): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+Sortoff.cpp(241): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(241): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(241): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+Sortoff.cpp(254): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(254): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(254): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+Sortoff.cpp(267): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(267): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(267): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+Sortoff.cpp(280): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(280): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+Sortoff.cpp(280): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+Sortoff.cpp(293): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+Sortoff.cpp(316): warning C4244: 'argument': conversion from 'WPARAM' to 'int', possible loss of data
+Sortoff.cpp(692): warning C4101: 'i': unreferenced local variable
+Sortoff.cpp(858): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(888): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+Sortoff.cpp(891): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(930): warning C4018: '>': signed/unsigned mismatch
+Sortoff.cpp(1181): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(1185): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(1251): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(1255): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(1304): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(1397): warning C4553: '==': operator has no effect; did you intend '='?
+Sortoff.cpp(1442): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Generating code
-  4 of 161 functions ( 2.5%) were compiled, the rest were copied from previous compilation.
+  3 of 166 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+    1 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   Sortoff.vcxproj -> C:\Users\Bendy\Downloads\Projects\sortoff-master\Sortoff\x64\Release\Sortoff.exe
