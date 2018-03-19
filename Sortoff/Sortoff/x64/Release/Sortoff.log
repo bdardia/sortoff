@@ -107,10 +107,31 @@ Sortoff.cpp(2912): warning C4267: 'argument': conversion from 'size_t' to 'int',
 Sortoff.cpp(2918): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
 Sortoff.cpp(2933): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
 Sortoff.cpp(2937): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(2949): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(2953): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
   Generating code
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(2283): warning C4172: returning address of local variable or temporary: p3
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(965): warning C4172: returning address of local variable or temporary: p
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(825): warning C4172: returning address of local variable or temporary: p
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(567): warning C4172: returning address of local variable or temporary: p
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(511): warning C4172: returning address of local variable or temporary: p
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(536): warning C4172: returning address of local variable or temporary: p
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(473): warning C4172: returning address of local variable or temporary: p
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(2373): warning C4172: returning address of local variable or temporary: p
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1411): warning C4172: returning address of local variable or temporary: p
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(631): warning C4172: returning address of local variable or temporary: p
 c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1287): warning C4172: returning address of local variable or temporary: p
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(2227): warning C4172: returning address of local variable or temporary: p
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1818): warning C4172: returning address of local variable or temporary: p
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(784): warning C4172: returning address of local variable or temporary: p
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(2087): warning C4172: returning address of local variable or temporary: p
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(729): warning C4172: returning address of local variable or temporary: p
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(2102): warning C4172: returning address of local variable or temporary: p
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1303): warning C4172: returning address of local variable or temporary: p
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(2172): warning C4172: returning address of local variable or temporary: p
 c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(894): warning C4172: returning address of local variable or temporary: p
-  4 of 502 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1198): warning C4172: returning address of local variable or temporary: p
+  44 of 502 functions ( 8.8%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     1 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
