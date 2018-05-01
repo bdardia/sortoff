@@ -81,78 +81,79 @@ Sortoff.cpp(412): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'in
 Sortoff.cpp(412): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
 Sortoff.cpp(425): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
 Sortoff.cpp(451): warning C4244: 'argument': conversion from 'WPARAM' to 'int', possible loss of data
-Sortoff.cpp(1178): warning C4101: 'i': unreferenced local variable
-Sortoff.cpp(1351): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(1403): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
-Sortoff.cpp(1406): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(1445): warning C4018: '>': signed/unsigned mismatch
-Sortoff.cpp(1906): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(1910): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(1976): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(1980): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(2029): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(2505): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(2620): warning C4553: '==': operator has no effect; did you intend '='?
-Sortoff.cpp(2755): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-Sortoff.cpp(2975): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-Sortoff.cpp(3003): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3087): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(3092): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(3098): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(3104): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(3108): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(3114): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(3155): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(3159): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(3165): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(3171): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(3175): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(3181): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(3222): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(3225): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(3231): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(3237): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(3240): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(3246): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(3283): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(3285): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(3291): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(3297): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(3299): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(3305): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-Sortoff.cpp(3330): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3332): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3334): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3359): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3375): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3381): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3398): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3404): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3421): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3427): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3442): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3446): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3458): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3462): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3464): warning C4305: 'initializing': truncation from '__int64' to 'int'
-Sortoff.cpp(3464): warning C4309: 'initializing': truncation of constant value
-Sortoff.cpp(3474): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3478): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3480): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3484): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3514): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3515): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3516): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3517): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3518): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3519): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3520): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Sortoff.cpp(3523): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(1154): warning C4101: 'i': unreferenced local variable
+Sortoff.cpp(1327): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(1379): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+Sortoff.cpp(1382): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(1421): warning C4018: '>': signed/unsigned mismatch
+Sortoff.cpp(1882): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(1886): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(1952): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(1956): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(2005): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(2011): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(2481): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(2596): warning C4553: '==': operator has no effect; did you intend '='?
+Sortoff.cpp(2731): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Sortoff.cpp(2951): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Sortoff.cpp(2979): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3063): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(3068): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(3074): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(3080): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(3084): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(3090): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(3131): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(3135): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(3141): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(3147): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(3151): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(3157): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(3198): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(3201): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(3207): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(3213): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(3216): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(3222): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(3259): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(3261): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(3267): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(3273): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(3275): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(3281): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Sortoff.cpp(3306): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3307): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3308): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3310): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3335): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3351): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3357): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3374): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3380): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3397): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3403): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3418): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3422): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3434): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3438): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3440): warning C4305: 'initializing': truncation from '__int64' to 'int'
+Sortoff.cpp(3440): warning C4309: 'initializing': truncation of constant value
+Sortoff.cpp(3450): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3454): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3456): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3460): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3490): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3491): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3492): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3493): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3494): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3495): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3496): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Sortoff.cpp(3499): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
   Generating code
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(560): warning C4172: returning address of local variable or temporary: p
-  3 of 586 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(2455): warning C4172: returning address of local variable or temporary: p
+  4 of 583 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
+    4 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   Sortoff.vcxproj -> C:\Users\BT_1N3_25\Desktop\sortoff-master\Sortoff\x64\Release\Sortoff.exe
