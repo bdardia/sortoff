@@ -1,6 +1,6 @@
 # pragma once
 typedef unsigned int uint;
-#include <amp.h>
+#include "amp.h"
 
 namespace pal
 {

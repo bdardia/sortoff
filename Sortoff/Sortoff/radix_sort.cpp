@@ -1,4 +1,3 @@
-#include <amp.h>
 #include "stdafx.h"
 #include "radix_sort.h"
 
@@ -168,7 +167,7 @@ namespace pal
 		}
 	}
 
-	void radix_sort(HDC hdc, uint* arr, uint size, int fake = 0)
+	void radix_sort(HDC hdc, uint* arr, uint size, int fake)
 	{
 		concurrency::array<uint> arr1(size, arr);
 		radix_sort(hdc, arr1);
