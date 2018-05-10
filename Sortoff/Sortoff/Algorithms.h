@@ -23,6 +23,29 @@ struct Node
 
 struct Node *newNode(int item);
 
+void swap(int *xp, int *yp)
+{
+	int temp = *xp;
+	*xp = *yp;
+	*yp = temp;
+}
+
+int gcd(int a, int b)
+{
+	if (a == 0)
+		return b;
+	return gcd(b%a, a);
+}
+
+int phi(unsigned int n)
+{
+	unsigned int result = 1;
+	for (int i = 2; i < 726; i++)
+		if (gcd(i, n) == 1)
+			result++;
+	return result;
+}
+
 // algorithms
 
 // slow
@@ -59,13 +82,13 @@ struct Node *newNode(int item);
 void storeSorted(HDC hdc, Node *root, int arr[], int &i);
 Node* insert(HDC hdc, Node* node, int key, int i);
 void treeSort(HDC hdc, int arr[], int n);
-int * treeSortMain(HDC hdc, int(&arr)[726]); // continue adding from here
+int * treeSortMain(HDC hdc, int(&arr)[726]);
 
 int * setSort(HDC hdc, int(&arr)[726]);
 
 // fast
-int * quickSort(HDC hdc, int(&arr)[726], int low, int high);
 int partition(HDC hdc, int arr[], int low, int high);
+int * quickSort(HDC hdc, int(&arr)[726], int low, int high);
 void quickSort2(HDC hdc, int arr[], int low, int high);
 
 void radixMSD(HDC hdc, int arr[], int low, int high, int depth);
@@ -87,6 +110,8 @@ int * slideSort(HDC hdc, int(&arr)[726]);
 void threeWayPartition(HDC hdc, int arr[], int left, int right, int &i, int &j);
 void threeWayQuicksort(HDC hdc, int arr[], int left, int right);
 int * threeWayQuicksortMain(HDC hdc, int(&arr)[726]);
+
+int * americanFlagSort(HDC hdc, int(&arr)[726]);
 
 int * flashSortMain(HDC hdc, int(&arr)[726]);
 void flashSort(HDC hdc, int arr[], int n);
