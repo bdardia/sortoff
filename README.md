@@ -2,15 +2,15 @@
 
 Sorting algorithms included:
 
-Patience sort (O(n log n))
+**Patience sort** (O(n log n))
 
-Quicksort (O(n log n))
+**Quicksort** (O(n log n))
 
-Tree sort (O(n log n))
+**Tree sort** (O(n log n))
 
-Adaptive radix left (O(n log M))
+**Adaptive radix left** (O(n log M))
 
-Histogram sort (O(n * k/d))
+**Histogram sort** (O(n * k/d))
 
 p = radixSort(hdc, data);
 
