@@ -1,159 +1,148 @@
-﻿  Algorithms.cpp
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\algorithms.cpp(173): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\algorithms.cpp(631): warning C4101: 'i': unreferenced local variable
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\algorithms.cpp(902): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\algorithms.cpp(905): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\algorithms.cpp(944): warning C4018: '>': signed/unsigned mismatch
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\algorithms.cpp(1103): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\algorithms.cpp(1688): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\algorithms.cpp(1692): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\algorithms.cpp(1758): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\algorithms.cpp(1762): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\algorithms.cpp(1811): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\algorithms.cpp(1965): warning C4553: '==': result of expression not used; did you intend '='?
-  Sortoff.cpp
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(83): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(83): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(83): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(96): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(96): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(96): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(109): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(109): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(109): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(122): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(122): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(122): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(135): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(135): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(135): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(148): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(148): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(148): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(161): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(161): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(161): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(174): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(174): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(174): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(187): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(187): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(187): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(200): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(200): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(200): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(213): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(213): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(213): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(226): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(226): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(226): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(239): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(239): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(239): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(252): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(252): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(252): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(265): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(265): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(265): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(278): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(278): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(278): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(291): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(291): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(291): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(304): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(304): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(304): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(317): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(317): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(317): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(330): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(330): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(330): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(343): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(343): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(343): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(356): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(356): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(356): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(369): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(369): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(369): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(382): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(382): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(382): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(382): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(395): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(395): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(395): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(395): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(408): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(408): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(408): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(421): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(421): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(421): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(434): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(460): warning C4244: 'argument': conversion from 'WPARAM' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(469): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(692): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(720): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(804): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(809): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(815): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(821): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(825): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(831): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(872): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(876): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(882): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(888): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(892): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(898): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(939): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(942): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(948): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(954): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(957): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(963): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1000): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1002): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1008): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1014): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1016): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1022): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1047): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1048): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1049): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1051): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1076): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1092): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1098): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1121): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1138): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1144): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1159): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1163): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1175): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1179): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1181): warning C4305: 'initializing': truncation from '__int64' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1181): warning C4309: 'initializing': truncation of constant value
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1191): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1195): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1197): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1201): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1231): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1232): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1233): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1234): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1235): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1236): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1237): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\sortoff\sortoff\sortoff.cpp(1240): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-Algorithms.obj : error LNK2005: "int __cdecl phi(unsigned int)" (?phi@@YAHI@Z) already defined in Algorithms.obj
-Algorithms.obj : error LNK2005: "int __cdecl gcd(int,int)" (?gcd@@YAHHH@Z) already defined in Algorithms.obj
-Algorithms.obj : error LNK2005: "void __cdecl swap(int *,int *)" (?swap@@YAXPEAH0@Z) already defined in Algorithms.obj
-C:\Users\BT_1N3_25\Desktop\sortoff-416db3a304a9cf19fa138ba8c2e13375fde9cc90\Sortoff\x64\Release\Sortoff.exe : fatal error LNK1169: one or more multiply defined symbols found
+﻿  Sortoff.cpp
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(83): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(83): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(83): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(96): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(96): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(96): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(109): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(109): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(109): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(122): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(122): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(122): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(135): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(135): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(135): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(148): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(148): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(148): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(161): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(161): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(161): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(174): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(174): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(174): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(187): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(187): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(187): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(200): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(200): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(200): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(213): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(213): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(213): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(226): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(226): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(226): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(239): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(239): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(239): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(252): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(252): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(252): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(265): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(265): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(265): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(278): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(278): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(278): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(291): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(291): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(291): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(304): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(304): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(304): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(317): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(317): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(317): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(330): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(330): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(330): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(343): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(343): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(343): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(356): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(356): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(356): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(369): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(369): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(369): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(382): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(382): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(382): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(382): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(395): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(395): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(395): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(395): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(408): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(408): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(408): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(421): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(421): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(421): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(434): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(460): warning C4244: 'argument': conversion from 'WPARAM' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(469): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(692): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(720): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(804): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(809): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(815): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(821): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(825): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(831): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(872): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(876): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(882): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(888): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(892): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(898): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(939): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(942): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(948): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(954): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(957): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(963): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1000): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1002): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1008): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1014): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1016): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1022): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1047): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1048): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1049): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1051): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1076): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1092): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1098): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1121): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1138): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1144): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1159): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1163): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1175): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1179): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1181): warning C4305: 'initializing': truncation from '__int64' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1181): warning C4309: 'initializing': truncation of constant value
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1191): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1195): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1197): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1201): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1231): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1232): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1233): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1234): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1235): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1236): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1237): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1240): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  1 of 884 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Sortoff.vcxproj -> C:\Users\BT_1N3_25\Desktop\sortoff-master\Sortoff\x64\Release\Sortoff.exe
