@@ -171,6 +171,8 @@ namespace pal
 	{
 		concurrency::array<uint> arr1(size, arr);
 		radix_sort(hdc, arr1);
+		for (int i = 0; i < size; i++)
+			arr[i] = arr1[i];
 	}
 
 	int * radix_sort(HDC hdc, int(&arr)[726])
