@@ -82,66 +82,72 @@ c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(408): warn
 c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(421): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
 c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(421): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
 c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(421): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(434): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(460): warning C4244: 'argument': conversion from 'WPARAM' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(469): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(692): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(718): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(803): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(808): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(814): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(820): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(824): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(830): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(871): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(875): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(881): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(887): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(891): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(897): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(938): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(941): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(947): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(953): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(956): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(962): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(999): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1001): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1007): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1013): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1015): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1021): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1026): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1029): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1048): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1049): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1050): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1052): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1077): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1093): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1099): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1116): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1122): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1139): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1145): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1160): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1164): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(434): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(434): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(434): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(434): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(447): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(447): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(447): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(447): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(460): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(486): warning C4244: 'argument': conversion from 'WPARAM' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(495): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(730): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(756): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(841): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(846): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(852): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(858): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(862): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(868): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(909): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(913): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(919): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(925): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(929): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(935): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(976): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(979): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(985): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(991): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(994): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1000): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1037): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1039): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1045): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1051): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1053): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1059): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1064): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1066): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1085): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1086): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1087): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1089): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1114): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1130): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1136): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1153): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1159): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
 c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1176): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1180): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1182): warning C4305: 'initializing': truncation from '__int64' to 'int'
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1182): warning C4309: 'initializing': truncation of constant value
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1192): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1196): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1198): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1202): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1232): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1182): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1197): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1201): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1213): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1217): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1229): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
 c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1233): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1234): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
 c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1235): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1236): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1237): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1238): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1241): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1239): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1269): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1270): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1271): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1272): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1273): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1274): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1275): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bt_1n3_25\desktop\sortoff-master\sortoff\sortoff\sortoff.cpp(1278): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
   Generating code
   2 of 894 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
