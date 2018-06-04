@@ -1,8 +1,8 @@
 # Algorithm times
 
-Quicksort: 12312, 13228			AVG: 12770
+Quicksort: 12312, 13228			            AVG: 12770
 
-Gravity sort: 14480, 12641              AVG: 13561         
+Gravity sort: 14480, 12641                        AVG: 13561         
 
 Radix LSD: 9256, 9062			AVG: 9159
 
