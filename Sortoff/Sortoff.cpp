@@ -409,19 +409,6 @@ INT WINAPI WinMain(HINSTANCE hInstance, HINSTANCE, PSTR, INT iCmdShow)
 
 	hwndButton27 = CreateWindow(
 		L"BUTTON",  // Predefined class; Unicode assumed 
-		L"Full parallel adaptive left radix",      // Button text 
-		WS_TABSTOP | WS_VISIBLE | WS_CHILD | BS_DEFPUSHBUTTON,  // Styles 
-		160,         // x position 
-		410,         // y position 
-		300,        // Button width
-		100,        // Button height
-		hWnd,     // Parent window
-		(HMENU) 22,       // Algorithm number.
-		(HINSTANCE)GetWindowLong(hWnd, (int)hInstance),
-		NULL);      // Pointer not needed.
-
-	hwndButton28 = CreateWindow(
-		L"BUTTON",  // Predefined class; Unicode assumed 
 		L"Already sorted",      // Button text 
 		WS_TABSTOP | WS_VISIBLE | WS_CHILD | BS_DEFPUSHBUTTON,  // Styles 
 		460,         // x position 
@@ -433,7 +420,7 @@ INT WINAPI WinMain(HINSTANCE hInstance, HINSTANCE, PSTR, INT iCmdShow)
 		(HINSTANCE)GetWindowLong(hWnd, (int)hInstance),
 		NULL);      // Pointer not needed.
 
-	hwndButton29 = CreateWindow(
+	hwndButton28 = CreateWindow(
 		L"BUTTON",  // Predefined class; Unicode assumed 
 		L"Reverse order",      // Button text 
 		WS_TABSTOP | WS_VISIBLE | WS_CHILD | BS_DEFPUSHBUTTON,  // Styles 
@@ -443,6 +430,19 @@ INT WINAPI WinMain(HINSTANCE hInstance, HINSTANCE, PSTR, INT iCmdShow)
 		100,        // Button height
 		hWnd,     // Parent window
 		(HMENU) REVERSE_ORDER,       // Algorithm number.
+		(HINSTANCE)GetWindowLong(hWnd, (int)hInstance),
+		NULL);      // Pointer not needed.
+
+	hwndButton29 = CreateWindow(
+		L"BUTTON",  // Predefined class; Unicode assumed 
+		L"Skewed distribution",      // Button text 
+		WS_TABSTOP | WS_VISIBLE | WS_CHILD | BS_DEFPUSHBUTTON,  // Styles 
+		310,         // x position 
+		410,         // y position 
+		150,        // Button width
+		100,        // Button height
+		hWnd,     // Parent window
+		(HMENU) CUBIC_SKEWED,       // Algorithm number.
 		(HINSTANCE)GetWindowLong(hWnd, (int)hInstance),
 		NULL);      // Pointer not needed.
 
@@ -477,7 +477,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message,
 		PostQuitMessage(0);
 		return 0;
 	case WM_COMMAND:
-		if (wParam != RANDOM_INTS && wParam != MOSTLY_SORTED && wParam != ALREADY_SORTED && wParam != REVERSE_ORDER)
+		if (wParam != RANDOM_INTS && wParam != MOSTLY_SORTED && wParam != ALREADY_SORTED && wParam != REVERSE_ORDER && wParam != CUBIC_SKEWED)
 		{
 			destroyAllButtons();
 		}
@@ -494,7 +494,7 @@ void runAlgo(HDC hdc, int algo)
 {
 	std::srand(time(NULL));
 
-	if (algo == RANDOM_INTS || algo == MOSTLY_SORTED || algo == ALREADY_SORTED || algo == REVERSE_ORDER)
+	if (algo >= RANDOM_INTS)
 	{
 		DATA_SET = algo;
 		setData = true;
@@ -526,6 +526,27 @@ void runAlgo(HDC hdc, int algo)
 		{
 			for (int i = 0; i < (sizeof(data) / sizeof(data[0])); i++)
 				data[i] = 726 - i;
+			return;
+		}
+		case CUBIC_SKEWED:
+		{
+			for (int i = 0; i < (sizeof(data) / sizeof(data[0])); i++) // skew data
+			{
+				double x = (2.0 * (double)i / (sizeof(data) / sizeof(data[0]))) - 1.0;
+				double v = x * x * x;
+				double w = (v + 1.0) / 2.0 * (sizeof(data) / sizeof(data[0])) + 1;
+				data[i] = w;
+			}
+
+			for (int i = 0; i < (sizeof(data) / sizeof(data[0])) * 2; i += 1) // randomize order
+			{
+				int randIndex = (std::rand() % 726) + 1;
+				int randIndex2 = (std::rand() % 726) + 1;
+				int temp = data[randIndex];
+				data[randIndex] = data[randIndex2];
+				data[randIndex2] = temp;
+			}
+
 			return;
 		}
 		default:
@@ -660,13 +681,14 @@ default:
 
 for (int i = 1; i < 726; i += 1)
 {
-	if (p[i] > p[i - 1])
+	if (p[i] >= p[i - 1])
 	{
 		SetPixel(hdc, i, 726 - p[i], RGB(0, 255, 0));
 	}
 	else
 	{
-		SetPixel(hdc, i, 726 - p[i], RGB(255, 0, 0));
+		SetPixel(hdc, i, 726 - p[i], RGB(0, 255, 255));
+		std::this_thread::sleep_for(std::chrono::milliseconds(500));
 	}
 }
 
