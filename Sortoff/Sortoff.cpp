@@ -688,7 +688,6 @@ for (int i = 1; i < 726; i += 1)
 	else
 	{
 		SetPixel(hdc, i, 726 - p[i], RGB(0, 255, 255));
-		std::this_thread::sleep_for(std::chrono::milliseconds(500));
 	}
 }
 
@@ -845,6 +844,8 @@ void createBracket(HDC hdc)
 				runAlgo(hdc, o);
 				ms1 = (std::clock() - start) / (double)(CLOCKS_PER_SEC / 1000);
 				m1 = constNames[o];
+				if (cStrEquals(L"Set", names[i]) || cStrEquals(L"Tree", names[i]))
+					ms1 = 10000;
 			}
 			if (cStrEquals(names[i + 1], constNames[o]))
 			{
@@ -853,6 +854,8 @@ void createBracket(HDC hdc)
 				runAlgo(hdc, o);
 				ms2 = (std::clock() - start) / (double)(CLOCKS_PER_SEC / 1000);
 				m2 = constNames[o];
+				if (cStrEquals(L"Set", names[i]) || cStrEquals(L"Tree", names[i]))
+					ms1 = 10000;
 			}
 		}
 		if (ms1 > 0 && ms2 > 0)
