@@ -668,9 +668,9 @@ case 20:
 case 21:
 	p = shellSort(hdc, data);
 	break;
-case 22:
-	p = pal::radix_sort(hdc, data); // parallel radix
-	break;
+//case 22:
+//	p = pal::radix_sort(hdc, data); // parallel radix
+//	break;
 case 999:
 	startTournament(hdc);
 	std::this_thread::sleep_for(std::chrono::seconds(100000));
@@ -845,7 +845,7 @@ void createBracket(HDC hdc)
 				ms1 = (std::clock() - start) / (double)(CLOCKS_PER_SEC / 1000);
 				m1 = constNames[o];
 				if ((cStrEquals(L"Set", names[i]) || cStrEquals(L"Tree", names[i])) && DATA_SET == CUBIC_SKEWED)
-					ms1 = 10000;
+					ms1 = INT_MAX;
 			}
 			if (cStrEquals(names[i + 1], constNames[o]))
 			{
@@ -855,7 +855,7 @@ void createBracket(HDC hdc)
 				ms2 = (std::clock() - start) / (double)(CLOCKS_PER_SEC / 1000);
 				m2 = constNames[o];
 				if ((cStrEquals(L"Set", names[i]) || cStrEquals(L"Tree", names[i])) && DATA_SET == CUBIC_SKEWED)
-					ms1 = 10000;
+					ms2 = INT_MAX;
 			}
 		}
 		if (ms1 > 0 && ms2 > 0)
@@ -864,6 +864,9 @@ void createBracket(HDC hdc)
 			{
 				round2Names[round2Index] = m2;
 				winBy[round][round2Index] = ms1 - ms2;
+
+				if (ms1 == INT_MAX)
+					winBy[round][round2Index] = 99999;
 
 				round2Index += 1;
 
@@ -881,6 +884,9 @@ void createBracket(HDC hdc)
 			{
 				round2Names[round2Index] = m1;
 				winBy[round][round2Index] = ms2 - ms1;
+
+				if (ms2 == INT_MAX)
+					winBy[round][round2Index] = 99999;
 
 				round2Index += 1;
 				if (ms1 < fastestTime)
@@ -999,6 +1005,7 @@ void createBracket(HDC hdc)
 			{
 				round4Names[round4Index] = m2;
 				winBy[round][round4Index] = ms1 - ms2;
+
 				round4Index += 1;
 				if (ms2 < fastestTime)
 					fastestTime = ms2;
@@ -1060,6 +1067,7 @@ void createBracket(HDC hdc)
 		{
 			winner = m2;
 			winBy[2][10] = ms1 - ms2;
+
 			if (ms2 < fastestTime)
 				fastestTime = ms2;
 
@@ -1230,7 +1238,7 @@ void updateBracket(HDC hdc, LPCWSTR names[], LPCWSTR constNames[], LPCWSTR round
 			{
 				for (int j = 0; j < 16; j++)
 				{
-					if (winBy[i][j] > maxWin)
+					if (winBy[i][j] > maxWin && winBy[i][j] != 99999)
 						maxWin = winBy[i][j];
 				}
 			}
