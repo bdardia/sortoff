@@ -844,7 +844,7 @@ void createBracket(HDC hdc)
 				runAlgo(hdc, o);
 				ms1 = (std::clock() - start) / (double)(CLOCKS_PER_SEC / 1000);
 				m1 = constNames[o];
-				if (cStrEquals(L"Set", names[i]) || cStrEquals(L"Tree", names[i]))
+				if ((cStrEquals(L"Set", names[i]) || cStrEquals(L"Tree", names[i])) && DATA_SET == CUBIC_SKEWED)
 					ms1 = 10000;
 			}
 			if (cStrEquals(names[i + 1], constNames[o]))
@@ -854,7 +854,7 @@ void createBracket(HDC hdc)
 				runAlgo(hdc, o);
 				ms2 = (std::clock() - start) / (double)(CLOCKS_PER_SEC / 1000);
 				m2 = constNames[o];
-				if (cStrEquals(L"Set", names[i]) || cStrEquals(L"Tree", names[i]))
+				if ((cStrEquals(L"Set", names[i]) || cStrEquals(L"Tree", names[i])) && DATA_SET == CUBIC_SKEWED)
 					ms1 = 10000;
 			}
 		}
